@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mauro</h1>
-<h3 align="center">I'm from Argentina and a Full Stack Developer focused on the Back End 👨‍💻 I've always been interested in programming. Recently, I completed the Full Stack Developer from Soy Henry Bootcamp, which focuses on the PERN stack. It was a challenging process, but I dedicated myself with determination, to finally acquire an advanced understanding of web development and all the skills necessary to build complex applications. I have always been passionate and attracted to technology, knowing how things work and challenging myself every day to learn new things, so the opportunity that this bootcamp has given me is invaluable to me.</h3>
+<h1 align="center">Hi 👋, I'm Mauro <br>
+  I'm from Argentina and a Full Stack Developer focused on the Back End 👨‍💻
+</h1>
+Hello, my name is Mauro Boccolini and I have always been interested in programming. Recently, I completed the Full Stack Developer bootcamp, which focuses on the PERN stack. It was a challenging process, but I dedicated myself with determination, to finally acquire an advanced understanding of web development and all the skills necessary to build complex applications.
+
+I have always been passionate and attracted to technology, knowing how things work and challenging myself every day to learn new things, so the opportunity that this bootcamp has given me is invaluable to me.
 
 - 🌱 I’m currently learning **Next.js and MongoDB**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mauro-boccolini/** **mauroboccolini.20@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mauro boccolini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauro boccolini" height="30" width="40" /></a>
 <a href="https://github.com/Maurobocco2" target="_blank">
